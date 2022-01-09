@@ -19,7 +19,7 @@ Additionally using two different API's (TvMaze Show API & Microverse Involvement
 
 ### Live version
 
-- live: [Javascript-Capstone](https://iwillteixeira.github.io/javascript-capstone/)
+- [Live](https://iwillteixeira.github.io/javascript-capstone/)
 
 ### Project Video
 
