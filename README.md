@@ -19,7 +19,7 @@ Additionally using two different API's (TvMaze Show API & Microverse Involvement
 
 ### Live version
 
-- [Live](https://iwillteixeira.github.io/javascript-capstone/)
+- [Live](https://shows500.netlify.app/)
 
 ### Project Video
 
@@ -29,11 +29,11 @@ Additionally using two different API's (TvMaze Show API & Microverse Involvement
 
 To get a local copy up and running follow these simple example steps:
 
-1- Click on the top right green code button.
-2- On the dropdown menu, choose download zip button.
-3- After download, extract the zip file and you have the project running on your machine.
-4- You can also clone the project using git clone command.
-5- After downloading or cloning the project use the command git i to install all Node packages.
+1- Click on the top right green code button. <br>
+2- On the dropdown menu, choose download zip button. <br>
+3- After download, extract the zip file and you have the project running on your machine. <br>
+4- You can also clone the project using git clone command. <br>
+5- After downloading or cloning the project use the command git i to install all Node packages. <br>
 
 ### Prerequisites
 
