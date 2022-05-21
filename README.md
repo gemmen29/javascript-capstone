@@ -1,10 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# JAVASCRIPT CAPSTONE
+# Show app
 
-Main goal of this project was working as a team with gitflow and best practices.
-
-Additionally using two different API's (TvMaze Show API & Microverse Involvement API).
+Display a list of series using two different API's (TvMaze Show API & Microverse Involvement API).
 
 ![screenshot](./screenshot.png)
 
